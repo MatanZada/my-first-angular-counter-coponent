@@ -1,4 +1,4 @@
-# CountApp together with Snir & Matan
+# CountApp together with Snir & Matan - live Share
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
